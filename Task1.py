@@ -1,0 +1,8 @@
+a=input("Enter the first Number: ")
+b=input("Enter the second Number: ")
+a=int(a)
+b=int(b)
+print(a+b)
+print(a-b)
+print(a*b)
+print(a/b)
