@@ -9,4 +9,6 @@ This repository for the python tasks that we implement as  part of our learning
 #Assignment3Task2 - This asssignment is to print squareroot, log and sin value of a given number.
 #Assignment4Task1 - This assigment is read content from a text file
 #Assignment4Task2 - This asssignment is to write/append content to a file and read it back line by line.
+#Assignment5Task1 - This assigment is related to dictionary usage
+#Assignment5Task2 - This asssignment is to list manipulation.
 
